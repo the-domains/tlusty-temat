@@ -1,6 +1,6 @@
 name: Tłusty Temat
 favicon: null
-layout_spectrum: 0.9014469529502094
+layout_spectrum: 1
 typography_spectrum: 0.1771104745566845
 title: Tłusty Temat
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5190413619857281
-  lightness: 0.11833487101830542
-  saturation: 0.6671211004722863
-  rhythmicContrast: 0.10262311180122197
+    - '#ffffff'
+    - '#ffa800'
+    - '#ff6c00'
+    - '#df0000'
+    - '#4e0000'
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
